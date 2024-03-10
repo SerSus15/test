@@ -1,6 +1,7 @@
 def summ_num():
     a = 1
     b = 2
+    
     a + b
 
 print(summ_num())
